@@ -1,4 +1,4 @@
-To setiup this project 
+To setup this project 
 1. create a virtual enviornment 
 2. install postgres sql
 3. clone the project into the env 
